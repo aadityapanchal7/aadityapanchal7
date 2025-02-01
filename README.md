@@ -6,8 +6,6 @@
 - 🔭 Researching @ [UT Austin, developing RNN Models to early diagnose Parkinson's disease]
 
 - 🔍 CEO @ [ResearchMadeAccessible](https://researchmadeaccessible.org/) working on improving research accessibility. 
-
-- 🤖 Programming Lead @ FRC 4065 team [https://www.frc4065.com/](https://www.frc4065.com/)
   
 - 🌱 I’m currently learning about **Neural Networks**.
 
